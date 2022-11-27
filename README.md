@@ -1,2 +1,2 @@
 # PsyHelp
-Project
+Project MITI
